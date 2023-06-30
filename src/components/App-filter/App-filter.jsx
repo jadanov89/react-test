@@ -1,3 +1,5 @@
+import "./App-filter.styled.css"
+
 const AppFilter = () => {
     return (
         <div className="btn-gruup">
